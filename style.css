@@ -12,30 +12,37 @@ body{
 }
 .first-image, .second-image, .third-image, .fourth-image{
     background-position: center;
-    background-size: cover;
     background-attachment: fixed;
     
 }
 .first-image{
     background-image: url(img/gowda1.jpg);
-    min-height: 500px;
+    min-height: 900px;
+    background-size:cover;
+
     opacity: 0.8;
 }
 
 .second-image{
     background-image: url(img/adarsh.jpg);
-    min-height:500px;
+    background-size:repeat;
+
+    min-height:900px;
 }
 
 .third-image{
     background-image: url(img/kuttawa.jpg);
-    min-height:500px;
+    min-height:900px;
+    background-size:cover;
+
 }
 
 .fourth-image{
     background-image: url(img/bakri.jpg);
-    min-height: 500px;
-    opacity: 0.8;
+    min-height: 900px;
+    background-size:cover;
+
+    /* opacity: 0.8; */
 
 }
 
