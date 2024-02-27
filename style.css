@@ -17,23 +17,23 @@ body{
     
 }
 .first-image{
-    background-image: url(img/1.jpg);
+    background-image: url(img/gowda1.jpg);
     min-height: 500px;
     opacity: 0.8;
 }
 
 .second-image{
-    background-image: url(img/2.jpg);
+    background-image: url(img/adarsh.jpg);
     min-height:500px;
 }
 
 .third-image{
-    background-image: url(img/3.jpeg);
+    background-image: url(img/kuttawa.jpg);
     min-height:500px;
 }
 
 .fourth-image{
-    background-image: url(img/1.jpg);
+    background-image: url(img/bakri.jpg);
     min-height: 500px;
     opacity: 0.8;
 
